@@ -11,6 +11,8 @@ Allurement
 
 AppleSkin
 
+Architect's Palette
+
 Atmospheric
 
 AttributeFix
@@ -151,4 +153,4 @@ Xaero's World Map
 
 YUNG's Better Strongholds
 
-Library Mods: Abnormals Core, Architectury API, AutoRegLib, BGCore, Bookshelf, Caelus API, Cloth Config API, COFH Core, Collective, Curios API, Differentiate, FTB GUI Library, Structure Gel API, YUNG's API
+Library Mods: Abnormals Core, Architectury API, AutoRegLib, BGCore, Bookshelf, Caelus API, Cloth Config API, CoFH Core, Collective, Curios API, Differentiate, FTB GUI Library, Structure Gel API, YUNG's API
