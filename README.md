@@ -51,8 +51,6 @@ CogwheelTweaker
 
 ContentTweaker
 
-Corpse Complex
-
 Cosmetic Armor Reworked
 
 CraftTweaker
