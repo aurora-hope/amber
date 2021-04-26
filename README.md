@@ -67,11 +67,15 @@ Curious Elytra
 
 Customizable Elytra
 
+Ding
+
 Dungeons Plus
 
 Eidolon
 
 Elenai Dodge 2
+
+Enhanced Mushrooms
 
 Environmental
 
@@ -130,6 +134,8 @@ Savage & Ravage
 Scuba Gear
 
 Shulker Enchantments
+
+Simply Improved Terrain
 
 Snow Under Trees
 
